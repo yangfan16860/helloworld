@@ -1,17 +1,17 @@
-2020��2��3�� ���ϱ��ͺ�
-1��20�յ�2��1��û��ϵ
-��ͬ��Ȱ���
+2020年2月3日 跟孟贝和好
+1月20日到2月1日没联系
+她同事劝解的
 
-time() datediff()���� DateAdd()���� currency ��������֧��С������double�á��»��߱����пո�ð��ƴ�Ӷ�������һ�С�\������������/��������������
-Date()���� Time()���� Now()���� Year() Month() Day() Hour() Minute() boolean����
+time() datediff()函数 DateAdd()函数 currency 数据类型支持小数，比double好。下划线必须有空格，冒号拼接多个语句在一行。\代表整除法。/代表正常除法。
+Date()函数 Time()函数 Now()函数 Year() Month() Day() Hour() Minute() boolean变量
 on error goto myerror:
 
 
 myerror:
 on error resume next
-IsDate()����
-IsNumeric()����
+IsDate()函数
+IsNumeric()函数
 TypeName()
 CInt() CStr() CDate() CLng()  CDbl()
 
-
+2020年2月5日 使用GitHub修改该文件，以后也尝试使用来记录生活，显得高大上，也为以后学习打下基础
